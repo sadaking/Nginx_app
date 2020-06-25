@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#観光地紹介アプリ
 
-Things you may want to cover:
+#概要
+訪日外国人向けに日本のオススメのスポット情報を提供するアプリケーション
 
-* Ruby version
+#コンセプト
 
-* System dependencies
+#バージョン
+Ruby 2.6.5 Rails 5.2.4.3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#機能一覧
+[ ] ログイン機能
+[ ] ユーザー登録機能
